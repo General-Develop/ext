@@ -1,0 +1,4 @@
+url: https://www.boost.org/
+version: 1.67.0
+file: boost_1_67_0.zip
+download_link: https://akamai.bintray.com/7e/7e37372d8cedd0fd6b7529e9dd67c2cb1c60e6c607aed721f5894d704945a7ec?__gda__=exp=1531840240~hmac=bd59bfe3f59501d1b494d970680edf5030418800f3aa9673f16c3c5449bc7232&response-content-disposition=attachment%3Bfilename%3D%22boost_1_67_0.zip%22&response-content-type=application%2Fzip&requestInfo=U2FsdGVkX18WU8scHqYbyhzbhMO57zTTWC1UFXurj0c9A8bsHgzDqdqFRQdjjkwnXEdX-qyZHbsnUtTgKj8x53qJLzPzlV5NYesfAmUrRXK2kSUtsOK8wEEGquVjKdFHI-q2OLduJ2OC7uiSM5_hZ1AeL5y-hHm425WtEyMixHw&response-X-Checksum-Sha1=f1105c157d93c90736fbfdf5b96c7a39db0e2fd7&response-X-Checksum-Sha2=7e37372d8cedd0fd6b7529e9dd67c2cb1c60e6c607aed721f5894d704945a7ec
